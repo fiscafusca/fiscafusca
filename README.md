@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiscafusca&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiscafusca&layout=compact&hide=jupyter%20notebook,mustache&count_private=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiscafusca&layout=compact&hide=jupyter%20notebook&count_private=true&theme=radical" />
 </a>
 <!---
 fiscafusca/fiscafusca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
