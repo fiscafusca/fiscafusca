@@ -1,6 +1,6 @@
 ### 👋  Hi, Gio here
 - 👩🏻‍💻 I'm a CS engineer working in IT Operations, with a keen interest in cloud computing and DevOps practices.
-- 🚀 I’m currently strengthening my knowledge in container environments, orchestration, monitoring, logging and Ops magic in general (still a newbie tho)
+- 🚀 I’m currently strengthening my knowledge in container environments, orchestration, monitoring, logging and Ops magic in general.
 <!---
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
