@@ -8,3 +8,8 @@
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiscafusca&layout=compact&hide=jupyter%20notebook,java,scala&count_private=true&theme=tokyonight" />
+</a>
+</br></br>
+<a href="https://twitter.com/feeskafoo">
+ <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
